@@ -14,7 +14,7 @@ Este proyecto tiene como objetivo poner en práctica los conocimientos adquirido
 - Animaciones de movimiento y del crecimiento de la planta.
 
 ## Demostracion
-<iframe src="https://skereboi.github.io/a-plant-ez/" frameborder="0" style="overflow:hidden;height:500px;width:100%;" height="500" width="100%"></iframe>
+https://skereboi.github.io/a-plant-ez/
 
 
 ## Requisitos 
