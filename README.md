@@ -7,14 +7,15 @@ Este proyecto tiene como objetivo poner en práctica los conocimientos adquirido
 
   <img src=".images/readme_1.png" width="30%" alt="Imagen de una planta">
 
-
-
-
 ## Características
-- Render 3D de una maceta con una planta en una mesa de jardín con un fondo estático
-- Opción para girar la planta sobre su eje y verla desde diferentes ángulos
-- Botón que aparece cada 30 minutos que permite regar la planta y ver cómo ésta crece
-- Animaciones de la regadera y del crecimiento de la planta.
+- Render 3D de una maceta con una planta en una mesa de madera con un fondo estático
+- La planta simula el efecto de recibir aire.
+- Al inicio se ve una demostracion de cómo ésta crece
+- Animaciones de movimiento y del crecimiento de la planta.
+
+## Demostracion
+<iframe src="https://skereboi.github.io/a-plant-ez/" frameborder="0" style="overflow:hidden;height:500px;width:100%;" height="500" width="100%"></iframe>
+
 
 ## Requisitos 
 - Unity versión 2020.3 o superior 
